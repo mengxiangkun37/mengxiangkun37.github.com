@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d65b6ce-e8eb-41c4-ae7e-29acaaeb7583" name="Default" comment="地方">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="4d65b6ce-e8eb-41c4-ae7e-29acaaeb7583" name="Default" comment="主页">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mxk.iws" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13693693">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,7 +179,13 @@
       <option name="project" value="LOCAL" />
       <updated>1487471153537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="主页">
+      <created>1487481098485</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487481098485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -212,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="地方" />
-    <option name="LAST_COMMIT_MESSAGE" value="地方" />
+    <MESSAGE value="主页" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -230,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13693693">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
